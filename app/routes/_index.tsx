@@ -55,8 +55,8 @@ export default function Index() {
 
 const resources = [
   {
-    href: "https://remix.run/start/quickstart",
-    text: "Quick Start (5 min)",
+    href: "https://github.com/Karnparamee08/Karn-react-app",
+    text: "Lab01: Defauit Remix App",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -76,8 +76,8 @@ const resources = [
     ),
   },
   {
-    href: "https://remix.run/start/tutorial",
-    text: "Tutorial (30 min)",
+    href: "https://github.com/Karnparamee08/Karn-react-app",
+    text: "Lab02: My First Component",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -97,8 +97,8 @@ const resources = [
     ),
   },
   {
-    href: "https://remix.run/docs",
-    text: "Remix Docs",
+    href: "https://github.com/Karnparamee08/Karn-react-app",
+    text: "Lab02: My First Component",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -117,8 +117,8 @@ const resources = [
     ),
   },
   {
-    href: "https://rmx.as/discord",
-    text: "Join Discord",
+    href: "https://github.com/Karnparamee08/Karn-react-app",
+    text: "LAb03: Porfile Component",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
