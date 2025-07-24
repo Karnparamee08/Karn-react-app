@@ -55,8 +55,8 @@ export default function Index() {
 
 const resources = [
   {
-    href: "https://github.com/Karnparamee08/Karn-react-app",
-    text: "Lab01: Defauit Remix App",
+    href: "http://localhost:5173/",
+    text: "Lab01: 08/07/2568",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -76,8 +76,8 @@ const resources = [
     ),
   },
   {
-    href: "https://github.com/Karnparamee08/Karn-react-app",
-    text: "Lab02: My First Component",
+    href: "http://localhost:5173/Karn_lab02",
+    text: "Lab02: 17/07/2568t",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -97,7 +97,7 @@ const resources = [
     ),
   },
   {
-    href: "https://github.com/Karnparamee08/Karn-react-app",
+    href: "http://localhost:5173/profiles",
     text: "Lab02: My First Component",
     icon: (
       <svg
@@ -117,8 +117,8 @@ const resources = [
     ),
   },
   {
-    href: "https://github.com/Karnparamee08/Karn-react-app",
-    text: "LAb03: Porfile Component",
+    href: "http://localhost:5173/lad03",
+    text: "LAb03: 24/07/2568",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
