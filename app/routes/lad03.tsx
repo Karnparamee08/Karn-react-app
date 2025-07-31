@@ -1,6 +1,7 @@
 // Filename : lad03.tsx
 import Profile from "./conponents/profiles";
 import Contact from "./conponents/Contact";
+import Footer from "./conponents/Footer";
 
  export default function myprofile(){
     return(
@@ -21,6 +22,10 @@ import Contact from "./conponents/Contact";
         <div className="ps-5 pe-5 pt-3 pb-1 bg-rose-400 rounded w-16 flex justifly-center mt-5">
         <a href="/">Back</a>
         </div>
+        <Footer 
+        title={"Karn_Paramee"}
+        />
+        
         </>
           
     );
