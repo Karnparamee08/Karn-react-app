@@ -1,4 +1,4 @@
- export const myTetmProj = [ // {} - Objects
+ export const myTermProj = [ // {} - Objects
       {
         tpId: 1,
         tpSubj: "wed Technology",
